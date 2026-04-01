@@ -58,8 +58,8 @@ github-trending/
 #### 2. 克隆或下载项目
 
 ```bash
-git clone https://github.com/your-repo/github-trending-daily-push.git
-cd github-trending-daily-push
+git clone https://github.com/Liu-Qing-song/Github-daily-trending.git
+cd Github-daily-trending
 ```
 
 或直接将项目文件夹下载到本地。
